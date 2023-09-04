@@ -1,0 +1,42 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "selector&Sequence_4",
+        "CurrencyMaster&Sequence_5",
+        "ConfigDictionary&Sequence_5",
+        "dt_Excel&Sequence_5",
+        "SourceCurrency&Sequence_5",
+        "FinalCurrency&Sequence_5",
+        "temp1&Sequence_5",
+        "Config_Source&Sequence_5",
+        "Config_Final&Sequence_5",
+        "temp2&Sequence_5",
+        "Amount&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "arr_var&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
